@@ -1,0 +1,102 @@
+body {
+	background: #e6ecf0;
+}
+
+.tweet {
+	padding: 10px;
+	border: 1px solid #e6ecf0;
+}
+
+.inline {
+    display: inline;
+    padding: 10px;
+}
+
+#tweetsContainer {
+	background: white;
+	margin: 2% 10%;
+	cursor: pointer;
+}
+
+#header {
+	height: 30px;
+	border-bottom: 1px solid #e6ecf0;
+	color: white;
+}
+
+#showNewTweetsButton {
+	width: 100%;
+    font-size: 14px;
+    display: inline;
+    padding: 10px;
+    cursor: pointer;
+    color: black;
+    background: white;
+    border: 1px solid #e6ecf0;
+    font-weight: bold;
+}
+
+.tweet:hover {
+	background-color: #f5f8fa;
+}
+
+.user:hover {
+    text-decoration: underline;
+    color: #1da1f2;  
+}
+#showNewTweetsButton:hover {
+    text-decoration: underline;
+    color: #1da1f2;  
+    font-weight: bold;
+}
+
+.button:hover {
+	text-decoration: underline;
+    color: #1da1f2;  
+    font-weight: bold;
+}
+
+.message {
+	padding: 10px;
+}
+
+.headerButtons {
+    padding: 10px;
+    cursor: pointer;
+    color: black;
+    background: white;
+    border: 1px solid #e6ecf0;
+    width: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#submit {
+    float: right;
+}
+.test{
+    display: inline;
+}
+
+.button {
+    padding: 10px;
+    cursor: pointer;
+    color: black;
+    background: white;
+    border: 1px solid #e6ecf0;
+    width: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.user {
+    font-weight: bold;
+    border: none;
+    background: inherit;
+}
+
+#form {
+    height: 28px;
+    width: 90%;
+}
